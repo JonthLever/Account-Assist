@@ -14,8 +14,8 @@ A customizable automation solution for accounting teams, enabling operators to f
 
 Features:
 - ISR Retention Calculation: Applies a 5% rate on the calculated base up to Q30,000 and 7% on any excess, according to Guatemalan regulations.
-- VAT Retention Calculation: Calculates a 15% retention on the total VAT. This calculation applies specifically to Special Taxpayers.
-- User-Friendly Interface: Includes a checkbox to enable or disable VAT retention and provides a clear, detailed breakdown of results.
+- VAT Retention Calculation: Calculates a 15% retention on the total IVA (VAT). This calculation applies specifically to Special Taxpayers.
+- User-Friendly Interface: Includes a checkbox to enable or disable IVA (VAT) retention and provides a clear, detailed breakdown of results.
 - This tool makes retention calculations quick and easy, ideal for supporting the accounting needs of small and medium-sized businesses in Guatemala.
 
 ![plot](./images/calculator.png)
