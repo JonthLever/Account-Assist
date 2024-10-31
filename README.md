@@ -3,7 +3,7 @@
 > Some parts of the code were created with help from ChatGPT. Each section includes a note to show whether it’s my original code or a contribution from ChatGPT.
 
 # Account Assist
-A customizable automation solution for accounting teams, enabling operators to focus on high-value tasks and minimize errors 
+A customizable automation solution for accounting teams, enabling operators to focus on high-value tasks and minimize errors <br>
 <img src=/images/logo_conta.png>
 
 ## APP Retention Calculator (ISR and IVA) for Guatemala
